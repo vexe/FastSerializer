@@ -1,0 +1,6 @@
+C:\Projects\Local Library\Solution\FastSerializer\bin\Debug\FastSerializer.dll.config
+C:\Projects\Local Library\Solution\FastSerializer\bin\Debug\FastSerializer.dll
+C:\Projects\Local Library\Solution\FastSerializer\bin\Debug\FastSerializer.pdb
+C:\Projects\Local Library\Solution\FastSerializer\obj\Debug\FastSerializer.csprojResolveAssemblyReference.cache
+C:\Projects\Local Library\Solution\FastSerializer\obj\Debug\FastSerializer.dll
+C:\Projects\Local Library\Solution\FastSerializer\obj\Debug\FastSerializer.pdb

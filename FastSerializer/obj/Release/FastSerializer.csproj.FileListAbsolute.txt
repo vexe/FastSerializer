@@ -1,0 +1,24 @@
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\FastSerializer\obj\Release\FastSerializer.csprojResolveAssemblyReference.cache
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\FastSerializer\bin\Release\FastSerializer.pdb
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\FastSerializer\obj\Release\FastSerializer.pdb
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\FastSerializer\bin\Release\FastSerializer.XML
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\FastSerializer\bin\Release\FullSerializer.dll
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\FastSerializer\bin\Release\FullSerializer.pdb
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\FastSerializer\bin\Release\FullSerializer.xml
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\FastSerializer\bin\Release\FastSerializer.exe.config
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\FastSerializer\bin\Release\FastSerializer.exe
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\FastSerializer\obj\Release\FastSerializer.exe
+E:\Projects\Local Library\Solution\FastSerializer\obj\Release\FastSerializer.csprojResolveAssemblyReference.cache
+E:\Projects\Local Library\Solution\FastSerializer\bin\Release\FastSerializer.XML
+E:\Projects\Local Library\Solution\FastSerializer\bin\Release\FastSerializer.pdb
+E:\Projects\Local Library\Solution\FastSerializer\obj\Release\FastSerializer.pdb
+E:\Projects\Local Library\Solution\FastSerializer\bin\Release\FastSerializer.dll.config
+E:\Projects\Local Library\Solution\FastSerializer\bin\Release\FastSerializer.dll
+E:\Projects\Local Library\Solution\FastSerializer\obj\Release\FastSerializer.dll
+C:\Projects\Local Library\Solution\FastSerializer\obj\Release\FastSerializer.csprojResolveAssemblyReference.cache
+C:\Projects\Local Library\Solution\FastSerializer\bin\Release\FastSerializer.XML
+C:\Projects\Local Library\Solution\FastSerializer\bin\Release\FastSerializer.dll.config
+C:\Projects\Local Library\Solution\FastSerializer\bin\Release\FastSerializer.dll
+C:\Projects\Local Library\Solution\FastSerializer\bin\Release\FastSerializer.pdb
+C:\Projects\Local Library\Solution\FastSerializer\obj\Release\FastSerializer.dll
+C:\Projects\Local Library\Solution\FastSerializer\obj\Release\FastSerializer.pdb

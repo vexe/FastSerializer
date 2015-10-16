@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6D079EF2-C6F5-45F5-BADE-DDEAA783ECE0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FastSerializer</RootNamespace>
+    <AssemblyName>FastSerializer</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DocumentationFile>bin\Release\FastSerializer.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Unity\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Serializer\Internal\EmitContext.cs" />
+    <Compile Include="Serializer\Internal\EmitHelper.cs" />
+    <Compile Include="Serializer\Internal\ILEmitter.cs" />
+    <Compile Include="Serializer\Internal\ReflectionHelper.cs" />
+    <Compile Include="Serializer\Predicates\StaticDLLSerializationPredicates.cs" />
+    <Compile Include="Serializer\Predicates\DefaultSerializationPredicates.cs" />
+    <Compile Include="Serializer\Predicates\SerializationAttributes.cs" />
+    <Compile Include="Serializer\Serializers\Array1DSerializer.cs" />
+    <Compile Include="Serializer\Serializers\DictionarySerializer.cs" />
+    <Compile Include="Serializer\Serializers\EnumSerializer.cs" />
+    <Compile Include="Serializer\Serializers\GuidSerializer.cs" />
+    <Compile Include="Serializer\Serializers\HashSetSerializer.cs" />
+    <Compile Include="Serializer\Serializers\IBaseSerializer.cs" />
+    <Compile Include="Serializer\Serializers\IReflectiveSerializer.cs" />
+    <Compile Include="Serializer\Serializers\IStaticSerializer.cs" />
+    <Compile Include="Serializer\Serializers\ListSerializer.cs" />
+    <Compile Include="Serializer\Serializers\MetadataSerializers.cs" />
+    <Compile Include="Serializer\Serializers\NullableSerializer.cs" />
+    <Compile Include="Serializer\Serializers\PrimitiveSerializer.cs" />
+    <Compile Include="Serializer\Serializers\QueueSerializer.cs" />
+    <Compile Include="Serializer\Serializers\StackSerializer.cs" />
+    <Compile Include="Serializer\Serializers\Array2DSerializer.cs" />
+    <Compile Include="Serializer\Serializers\TypeSerializer.cs" />
+    <Compile Include="Serializer\Serializers\UnityMiscSerializer.cs" />
+    <Compile Include="Serializer\Serializers\UnityObjectSerializer.cs" />
+    <Compile Include="Serializer\Serializers\UniversalSerializer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Serializer\Predicates\ISerializationPredicates.cs" />
+    <Compile Include="Serializer\FastSerializer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

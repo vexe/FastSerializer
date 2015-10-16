@@ -1,0 +1,14 @@
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Release\CustomSerializer.exe.config
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Release\CustomSerializer.exe
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Release\CustomSerializer.pdb
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\obj\Release\CustomSerializer.csprojResolveAssemblyReference.cache
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\obj\Release\CustomSerializer.exe
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\obj\Release\CustomSerializer.pdb
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Release\UnityEngine.dll
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Release\vRuntime.dll
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Release\vRuntime.pdb
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Release\FullSerializer.dll
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Release\FullSerializer.pdb
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Release\protobuf-net.dll
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Release\protobuf-net.pdb
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Release\protobuf-net.xml

@@ -1,0 +1,10 @@
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Debug\CustomSerializer.exe.config
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Debug\CustomSerializer.exe
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Debug\CustomSerializer.pdb
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\obj\Debug\CustomSerializer.csprojResolveAssemblyReference.cache
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\obj\Debug\CustomSerializer.exe
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\obj\Debug\CustomSerializer.pdb
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Debug\UnityEngine.dll
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Debug\vRuntime.dll
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Debug\vRuntime.pdb
+C:\Users\vexe\Desktop\MyExtensionsAndHelpers\Solution\CustomSerializer\bin\Debug\vRuntime.xml

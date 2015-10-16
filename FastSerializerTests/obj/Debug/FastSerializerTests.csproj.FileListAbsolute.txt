@@ -1,0 +1,9 @@
+C:\Projects\Local Library\Solution\FastSerializerTests\bin\Debug\FastSerializerTests.dll
+C:\Projects\Local Library\Solution\FastSerializerTests\bin\Debug\FastSerializerTests.pdb
+C:\Projects\Local Library\Solution\FastSerializerTests\bin\Debug\FastSerializer.dll
+C:\Projects\Local Library\Solution\FastSerializerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Local Library\Solution\FastSerializerTests\bin\Debug\UnityEngine.dll
+C:\Projects\Local Library\Solution\FastSerializerTests\bin\Debug\FastSerializer.pdb
+C:\Projects\Local Library\Solution\FastSerializerTests\obj\Debug\FastSerializerTests.csprojResolveAssemblyReference.cache
+C:\Projects\Local Library\Solution\FastSerializerTests\obj\Debug\FastSerializerTests.dll
+C:\Projects\Local Library\Solution\FastSerializerTests\obj\Debug\FastSerializerTests.pdb

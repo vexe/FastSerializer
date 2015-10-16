@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FastSerializer</name>
+    </assembly>
+    <members>
+        <member name="M:Vexe.Fast.Serializer.FastSerializer.BindAssembly(System.String,System.String)">
+            <summary>
+            Creates the [de]serialization delegates from the specified assembly and type name
+            (call this when you precompile a static serialization assembly and you'd like to use it instead of emitting code dynamically)
+            Throws a IOException if the path doesn't exist
+            Throws a NullReferenceException if the type wasn't found in the assembly
+            </summary>
+        </member>
+        <member name="T:Vexe.Fast.Serializer.CacheContext">
+            <summary>
+            Idea of marking refernces is inspired by FullSerializer. Thanks Jacob!
+            </summary>
+        </member>
+        <member name="T:Vexe.Fast.Serialization.StaticDLLSerializationPredicates">
+            <summary>
+            The serialization logic of use when precompiling a serialization assembly
+            Fields and properties in objects *must* be public otherwise the generated code won't be valid
+            </summary>
+        </member>
+        <member name="T:Vexe.Fast.Serialization.SerializeAttribute">
+            <summary>
+            Used by the default serialization logic.
+            Mark non-public fields|properties with this attribute in order for them to be serialized
+            NOTE: non-public members *only* work when compiling dynamic methods as opposed to a DLL
+            </summary>
+        </member>
+        <member name="T:Vexe.Fast.Serialization.DontSerializeAttribute">
+            <summary>
+            Used by the default serialization logic.
+            Mark members with this attribute to make them non-serializable
+            </summary>
+        </member>
+        <member name="T:Vexe.Fast.Serialization.ISerializationAttributes">
+            <summary>
+            Attributes that could be used by some serialization logic to help determine if a member or type is serializable or not
+            </summary>
+        </member>
+        <member name="P:Vexe.Fast.Serialization.ISerializationAttributes.SerializeMember">
+            <summary>
+            Marks a member (field|property) as serializable
+            </summary>
+        </member>
+        <member name="P:Vexe.Fast.Serialization.ISerializationAttributes.NotSerialized">
+            <summary>
+            Marks a member (field|property) or type (class|struct) as not serializable
+            </summary>
+        </member>
+        <member name="P:Vexe.Fast.Serialization.ISerializationAttributes.SerializeType">
+            <summary>
+            Marks a type (class|struct) as serializable
+            </summary>
+        </member>
+    </members>
+</doc>
